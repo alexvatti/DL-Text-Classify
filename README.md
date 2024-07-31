@@ -18,7 +18,18 @@ Streamlit: 🌐
 - [License](#license)
 - [Contact](#contact)
 ## Overview 
+In this project, we've harnessed the power of deep learning to tackle the fascinating task of text classification. 
+Whether it's categorizing emails or analyzing movie reviews, our approach leverages Recurrent Neural Networks (RNNs) and Long Short-Term Memory networks (LSTMs) 
+to accurately interpret and classify text data.
 
+** Key Features: **
+
+- Email Classification:
+   Sorting emails into categories like spam or ham. This helps in managing inboxes efficiently and ensures important messages aren't missed.
+
+- Movie Review Sentiment Analysis:
+   Determining the sentiment behind movie reviews, whether positive or negative. This provides valuable insights into audience reactions and trends.
+  
 ## Project Highlights
 
 ## Installation
