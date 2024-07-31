@@ -34,7 +34,41 @@ to accurately interpret and classify text data.
 
 ## Installation
 
+1. Clone this repository to your local machine using:
+
+```bash
+  git clone https://github.com/alexvatti/DL-Text-Classify.git
+```
+2. Navigate to the project directory:
+
+```bash
+  cd DL-Text-Classify
+```
+3. Install the required dependencies using pip:
+
+```bash
+  pip install -r requirements.txt
+```
+
+4. Open the Jupyter Notebook - Run the Code
+
+```   
+Email-Spam-Classification/RNN_Emails_Spam_Classification.ipynb
+```
+
+```
+Movie-Review-Calssification/Movie-Review-Classification.ipynb
+```
+
 ## Usage
+
+1. Run the Streamlit app by executing:
+```bash
+cd App
+streamlit run app.py
+```
+
+2.The web app will open in your browser where you can ask questions
 
 ## Sample Questions
 
