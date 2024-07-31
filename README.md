@@ -22,7 +22,7 @@ In this project, we've harnessed the power of deep learning to tackle the fascin
 Whether it's categorizing emails or analyzing movie reviews, our approach leverages Recurrent Neural Networks (RNNs) and Long Short-Term Memory networks (LSTMs) 
 to accurately interpret and classify text data.
 
-** Key Features: **
+**Key Features:**
 
 - Email Classification:
    Sorting emails into categories like spam or ham. This helps in managing inboxes efficiently and ensures important messages aren't missed.
