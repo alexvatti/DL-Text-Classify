@@ -1,4 +1,4 @@
-# DL-Text-Classify
+# Deep Learning -Text-Classify
 
 Deep Learning (DL): 🤖
 TensorFlow: 🔧
